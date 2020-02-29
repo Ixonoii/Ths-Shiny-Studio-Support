@@ -1,4 +1,4 @@
-/client.login(process.env.TOKENBOT)
+client.login(process.env.TOKENBOT)
 
 /.vscode
 /.idea
