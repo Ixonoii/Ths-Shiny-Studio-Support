@@ -1,3 +1,5 @@
+client.login(process.env.TOKENBOT)
+
 /.vscode
 /.idea
 /node_modules
@@ -5,5 +7,3 @@
 !/config.example.ini
 /welcome.png
 /update.sh
-
-client.login(process.env.TOKENBOT)
